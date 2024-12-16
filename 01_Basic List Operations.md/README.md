@@ -1,6 +1,6 @@
 # List Methods in Python 📋
 ---
-# Repo Structure
+# File Structure🗂️
 - **[01_Lists](https://github.com/Ahad-mirza/Python-List/tree/main/01_Basic%20List%20Operations.md/01_Lists)**
 - **[02_index printing](https://github.com/Ahad-mirza/Python-List/tree/main/01_Basic%20List%20Operations.md/02_Index%20printing.md)**
 - **[03_Append method](https://github.com/Ahad-mirza/Python-List/tree/main/01_Basic%20List%20Operations.md/03_Append%20method)**
