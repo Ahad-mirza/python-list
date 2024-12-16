@@ -5,7 +5,7 @@
 - 01_[Basic List Operations](https://github.com/Ahad-mirza/Python-List/tree/main/01_Basic%20List%20Operations.md)
 - 02_[Intermediate List Operations](https://github.com/Ahad-mirza/Python-List/tree/main/02_Intermediate%20list%20Operations.md)
 - 03_[Advanced Lists Operations](https://github.com/Ahad-mirza/Python-List/tree/main/03_Advanced%20list%20Operations)
-## **Basic List Operations**  
+# **Basic List Operations**  
 
 ### 🔢 Create a List of Natural Numbers  
 Generate a list of the first 10 natural numbers to familiarize yourself with list initialization.  
@@ -39,7 +39,7 @@ Flip the order of elements in a list for reverse navigation or display.
 
 ---
 
-## **Intermediate List Operations**  
+# **Intermediate List Operations**  
 
 ### 🧮 Generate Squares Using List Comprehension  
 Create a list of squares for numbers using compact, Pythonic syntax.  
@@ -73,7 +73,7 @@ Modify a string by replacing vowels with `*` for obfuscation or formatting.
 
 ---
 
-## **Advanced List Operations**  
+# **Advanced List Operations**  
 
 ### 🔢 Generate Fibonacci Numbers  
 Create a list of the first 10 Fibonacci numbers, blending arithmetic with iterative logic.  
