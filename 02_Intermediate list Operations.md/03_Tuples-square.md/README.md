@@ -25,6 +25,8 @@ Tuple list creation is a Python technique that allows you to generate a list of 
 ```
 ### Output
 `[(1, 1), (2, 4), (3, 9), (4, 16), (5, 25), (6, 36), (7, 49), (8, 64), (9, 81), (10, 100)]`
+
+---
 ## Step-by-Step Explanation 🚶‍♂️
 
 ### 1. Iterating Over a Range 🔄:
