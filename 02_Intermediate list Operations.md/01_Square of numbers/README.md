@@ -2,7 +2,7 @@
 ---
 
 ## Table of Contents 📑
-1. [What is List Comprehension? 🤔](#what-is-list-comprehension)
+1. [What is List Comprehension? 🤔](#whatislistcomprehension)
 2. [Example Code: Creating a List of Squares 🔢](#example-code-creating-a-list-of-squares)
 3. [Step-by-Step Explanation 🚶‍♂️](#step-by-step-explanation)
    - [Iterating Over a Range 🔄](#iterating-over-a-range)
