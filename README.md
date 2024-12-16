@@ -5,6 +5,35 @@
 - 01_[Basic List Operations](https://github.com/Ahad-mirza/Python-List/tree/main/01_Basic%20List%20Operations.md)
 - 02_[Intermediate List Operations](https://github.com/Ahad-mirza/Python-List/tree/main/02_Intermediate%20list%20Operations.md)
 - 03_[Advanced Lists Operations](https://github.com/Ahad-mirza/Python-List/tree/main/03_Advanced%20list%20Operations)
+  ---
+  
+## **Key Points** ✨  
+
+- **Beginner-Friendly:** Covers foundational operations like appending, removing, and sorting lists.  
+- **Intermediate Challenges:** Explores list comprehensions, filtering, and data transformations.  
+- **Advanced Concepts:** Delves into algorithms like Fibonacci generation and prime number calculations.  
+- **Practical Applications:** Focuses on real-world scenarios such as text processing, data cleaning, and structuring.  
+
+---
+
+## **Features** 🛠️  
+
+### ✅ **Comprehensive Coverage:**  
+The repository includes categorized questions and exercises for basic, intermediate, and advanced list operations.  
+
+### 🔄 **Hands-On Examples:**  
+Step-by-step exercises designed to improve understanding of Python list manipulations.  
+
+### 🚀 **List Comprehensions:**  
+Several tasks focus on mastering Python's powerful and concise list comprehension technique.  
+
+### 🔍 **Algorithmic Thinking:**  
+Encourages problem-solving through tasks like generating Fibonacci numbers, finding primes, and rotating lists.  
+
+### 🌟 **Practical Utility:**  
+Includes tasks related to real-world use cases like text processing, merging datasets, and data flattening.  
+
+---
 # **Basic List Operations**  
 
 ### 🔢 Create a List of Natural Numbers  
