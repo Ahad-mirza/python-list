@@ -1,7 +1,7 @@
 # List Methods in Python 📋
 
 ## Repo Structure 📂
-- [01_Lists](#)
+- [01_Lists](https://github.com/Ahad-mirza/Python-List/tree/main/01_Basic%20List%20Operations.md/01_Lists)
 
 ## 1. **Defining and Displaying a List:** 📝
 A list is an ordered collection of elements. In Python, lists can store multiple types of data, and you can access them using indices.
