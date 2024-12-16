@@ -1,5 +1,20 @@
 # List Comprehension in Python 📝
+---
 
+## Table of Contents 📑
+1. [What is List Comprehension? 🤔](#what-is-list-comprehension)
+2. [Example Code: Creating a List of Squares 🔢](#example-code-creating-a-list-of-squares)
+3. [Step-by-Step Explanation 🚶‍♂️](#step-by-step-explanation)
+   - [Iterating Over a Range 🔄](#iterating-over-a-range)
+   - [Squaring Each Number ➗](#squaring-each-number)
+   - [Creating the List 📋](#creating-the-list)
+4. [Key Points 📝](#key-points)
+5. [Features of List Comprehension 🧑‍💻](#features-of-list-comprehension)
+6. [Uses of List Comprehension 🛠️](#uses-of-list-comprehension)
+7. [Key Benefits 🌟](#key-benefits)
+8. [Conclusion 💡](#conclusion)
+
+---
 ## What is List Comprehension? 🤔
 List comprehension provides a concise way to create lists in Python. It allows you to construct lists in a single line of code by applying an expression to each item in an existing iterable.
 
