@@ -1,7 +1,16 @@
 # List Methods in Python 📋
-
-## Repo Structure 📂
-- [01_Lists](https://github.com/Ahad-mirza/Python-List/tree/main/01_Basic%20List%20Operations.md/01_Lists)
+---
+# Repo Structure
+- **[01_Lists](https://github.com/Ahad-mirza/Python-List/tree/main/01_Basic%20List%20Operations.md/01_Lists)**
+- **[02_index printing](https://github.com/Ahad-mirza/Python-List/tree/main/01_Basic%20List%20Operations.md/02_Index%20printing.md)**
+- **[03_Append method](https://github.com/Ahad-mirza/Python-List/tree/main/01_Basic%20List%20Operations.md/03_Append%20method)**
+- **[04_insert method](https://github.com/Ahad-mirza/Python-List/tree/main/01_Basic%20List%20Operations.md/04_Insert%20method)**
+- **[05_remove method](https://github.com/Ahad-mirza/Python-List/tree/main/01_Basic%20List%20Operations.md/05_Remove%20method)**
+- **[06_pop method](https://github.com/Ahad-mirza/Python-List/tree/main/01_Basic%20List%20Operations.md/06_pop%20method)**
+- **[07_count method](https://github.com/Ahad-mirza/Python-List/tree/main/01_Basic%20List%20Operations.md/07_count%20method.md)**
+- **[08_find index](https://github.com/Ahad-mirza/Python-List/tree/main/01_Basic%20List%20Operations.md/08_find%20index.md)**
+- **[09_sort method](https://github.com/Ahad-mirza/Python-List/tree/main/01_Basic%20List%20Operations.md/09_sort%20method)**
+- **[10_sort method](https://github.com/Ahad-mirza/Python-List/tree/main/01_Basic%20List%20Operations.md/10_reverse%20method.md)**
 
 ## 1. **Defining and Displaying a List:** 📝
 A list is an ordered collection of elements. In Python, lists can store multiple types of data, and you can access them using indices.
