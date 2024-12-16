@@ -1,7 +1,7 @@
 # Flattening a List of Lists in Python 📝
 
 ## Table of Contents 📑
-1. [What is List Flattening? 🤔](#what-is-list-flattening)
+1. [What is List Flattening? 🤔](#What-is-List-Flattening)
 2. [Step-by-Step Explanation 🚶‍♂️](#step-by-step-explanation)
    - [Iterating Over Nested Lists 🔄](#iterating-over-nested-lists)
    - [Extracting Items 📋](#extracting-items)
