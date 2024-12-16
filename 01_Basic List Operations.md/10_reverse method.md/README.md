@@ -1,5 +1,5 @@
 # Reverse Method in List 🔄
---
+---
 ## 1. **Define the list:**
 We start with a list of numbers:
 ```python
@@ -24,7 +24,8 @@ Copy code
 print(list) 🖨️
 ```
 The output will be:
-*[50, 40, 30, 20, 10]*
+
+**[50, 40, 30, 20, 10]**
 This means that the list is now reversed.
 
 ## What Happens Internally 🔍:
