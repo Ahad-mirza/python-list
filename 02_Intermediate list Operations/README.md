@@ -9,8 +9,8 @@
 6. [06_Concetenation➕](https://github.com/Ahad-mirza/Python-List/tree/main/02_Intermediate%20list%20Operations/06_Concetenation)  
 7. [07_Converting to Upper Case🔠](https://github.com/Ahad-mirza/Python-List/tree/main/02_Intermediate%20list%20Operations/07_List%20uppercase)  
 8. [08_Removing Specific Elements❌](https://github.com/Ahad-mirza/Python-List/tree/main/02_Intermediate%20list%20Operations/08_Remove)  
-9. [09_Checking for an Empty List🔍](https://github.com/Ahad-mirza/Python-List/tree/main/02_Intermediate%20list%20Operations.md/09_Empty%20list)  
-10. [10_Replacing Vowels in Text⭐](https://github.com/Ahad-mirza/Python-List/tree/main/02_Intermediate%20list%20Operations.md/10_Replace)  
+9. [09_Checking for an Empty List🔍](https://github.com/Ahad-mirza/Python-List/tree/main/02_Intermediate%20list%20Operations/09_Empty%20list)  
+10. [10_Replacing Vowels in Text⭐](https://github.com/Ahad-mirza/Python-List/tree/main/02_Intermediate%20list%20Operations/10_Replace)  
 
 ---
 
