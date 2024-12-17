@@ -14,16 +14,16 @@
 
 ---
 ### File Structure 📂  
-- [01_Fibonacci list 🔢](https://github.com/Ahad-mirza/Python-List/tree/main/03_Advanced%20list%20Operations/01_Fibonacci%20list.md)  
-- [02_Half of list 📄](https://github.com/Ahad-mirza/Python-List/tree/main/03_Advanced%20list%20Operations/02_Half%20of%20list.md)  
-- [03_Find Largest Number 🥈](https://github.com/Ahad-mirza/Python-List/tree/main/03_Advanced%20list%20Operations/03_Find%20largest%20numbers.md)  
-- [04_Division 🌟](https://github.com/Ahad-mirza/Python-List/tree/main/03_Advanced%20list%20Operations/04_Division.md)  
-- [05_Prime Numbers list 🔢](https://github.com/Ahad-mirza/Python-List/tree/main/03_Advanced%20list%20Operations/05_Prime%20num.%20list.md)  
-- [06_Zip method](https://github.com/Ahad-mirza/Python-List/tree/main/03_Advanced%20list%20Operations/06_Zip%20method.md)  
-- [07_Unzip Tuples 📤](https://github.com/Ahad-mirza/Python-List/tree/main/03_Advanced%20list%20Operations/07_Unzip%20tuples..md)  
-- 08_[Rotation 🔄](https://github.com/Ahad-mirza/Python-List/tree/main/03_Advanced%20list%20Operations/08_Rotation.md)  
-- [09_Find Common Elements 🔍](https://github.com/Ahad-mirza/Python-List/tree/main/03_Advanced%20list%20Operations/09_Find%20common%20elements.md)  
-- [10_Reverse Strings in a List 🔄](https://github.com/Ahad-mirza/Python-List/tree/main/03_Advanced%20list%20Operations/10_Reverse%20of%20string.md)
+- [01_Fibonacci list 🔢](https://github.com/Ahad-mirza/Python-List/tree/main/03_Advanced%20list%20Operations/01_Fibonacci%20list)  
+- [02_Half of list 📄](https://github.com/Ahad-mirza/Python-List/tree/main/03_Advanced%20list%20Operations/02_Half%20of%20list)  
+- [03_Find Largest Number 🥈](https://github.com/Ahad-mirza/Python-List/tree/main/03_Advanced%20list%20Operations/03_Find%20largest%20numbers)  
+- [04_Division 🌟](https://github.com/Ahad-mirza/Python-List/tree/main/03_Advanced%20list%20Operations/04_Division)  
+- [05_Prime Numbers list 🔢](https://github.com/Ahad-mirza/Python-List/tree/main/03_Advanced%20list%20Operations/05_Prime%20num.%20list)  
+- [06_Zip method](https://github.com/Ahad-mirza/Python-List/tree/main/03_Advanced%20list%20Operations/06_Zip%20method)  
+- [07_Unzip Tuples 📤](https://github.com/Ahad-mirza/Python-List/tree/main/03_Advanced%20list%20Operations/07_Unzip%20tuples)  
+- 08_[Rotation 🔄](https://github.com/Ahad-mirza/Python-List/tree/main/03_Advanced%20list%20Operations/08_Rotation)  
+- [09_Find Common Elements 🔍](https://github.com/Ahad-mirza/Python-List/tree/main/03_Advanced%20list%20Operations/09_Find%20common%20elements)  
+- [10_Reverse Strings in a List 🔄](https://github.com/Ahad-mirza/Python-List/tree/main/03_Advanced%20list%20Operations/10_Reverse%20of%20string)
 
 ---
   
