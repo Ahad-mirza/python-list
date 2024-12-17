@@ -1,16 +1,16 @@
 # List Methods in Python 📋
 ---
 # File Structure🗂️
-- **[01_Lists](https://github.com/Ahad-mirza/Python-List/tree/main/01_Basic%20List%20Operations.md/01_Lists)**
-- **[02_index printing](https://github.com/Ahad-mirza/Python-List/tree/main/01_Basic%20List%20Operations.md/02_Index%20printing)**
-- **[03_Append method](https://github.com/Ahad-mirza/Python-List/tree/main/01_Basic%20List%20Operations.md/03_Append%20method)**
-- **[04_insert method](https://github.com/Ahad-mirza/Python-List/tree/main/01_Basic%20List%20Operations.md/04_Insert%20method)**
-- **[05_remove method](https://github.com/Ahad-mirza/Python-List/tree/main/01_Basic%20List%20Operations.md/05_Remove%20method)**
-- **[06_pop method](https://github.com/Ahad-mirza/Python-List/tree/main/01_Basic%20List%20Operations.md/06_pop%20method)**
-- **[07_count method](https://github.com/Ahad-mirza/Python-List/tree/main/01_Basic%20List%20Operations.md/07_count%20method)**
-- **[08_find index](https://github.com/Ahad-mirza/Python-List/tree/main/01_Basic%20List%20Operations.md/08_find%20index)**
-- **[09_sort method](https://github.com/Ahad-mirza/Python-List/tree/main/01_Basic%20List%20Operations.md/09_sort%20method)**
-- **[10_sort method](https://github.com/Ahad-mirza/Python-List/tree/main/01_Basic%20List%20Operations.md/10_reverse%20method)**
+- **[01_Lists](https://github.com/Ahad-mirza/Python-List/tree/main/01_Basic%20List%20Operations/01_Lists)**
+- **[02_index printing](https://github.com/Ahad-mirza/Python-List/tree/main/01_Basic%20List%20Operations/02_Index%20printing)**
+- **[03_Append method](https://github.com/Ahad-mirza/Python-List/tree/main/01_Basic%20List%20Operations/03_Append%20method)**
+- **[04_insert method](https://github.com/Ahad-mirza/Python-List/tree/main/01_Basic%20List%20Operations/04_Insert%20method)**
+- **[05_remove method](https://github.com/Ahad-mirza/Python-List/tree/main/01_Basic%20List%20Operations/05_Remove%20method)**
+- **[06_pop method](https://github.com/Ahad-mirza/Python-List/tree/main/01_Basic%20List%20Operations/06_pop%20method)**
+- **[07_count method](https://github.com/Ahad-mirza/Python-List/tree/main/01_Basic%20List%20Operations/07_count%20method)**
+- **[08_find index](https://github.com/Ahad-mirza/Python-List/tree/main/01_Basic%20List%20Operations/08_find%20index)**
+- **[09_sort method](https://github.com/Ahad-mirza/Python-List/tree/main/01_Basic%20List%20Operations/09_sort%20method)**
+- **[10_reverse method](https://github.com/Ahad-mirza/Python-List/tree/main/01_Basic%20List%20Operations/10_reverse%20method)**
 
 ## 1. **Defining and Displaying a List:** 📝
 A list is an ordered collection of elements. In Python, lists can store multiple types of data, and you can access them using indices.
