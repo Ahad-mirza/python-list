@@ -1,14 +1,14 @@
 # Python List Comprehensions and Operations 📝
 
 ## File Structure 🗂️
-1. [01_Squares of Numbers🔢](https://github.com/Ahad-mirza/Python-List/tree/main/02_Intermediate%20list%20Operations.md/01_Square%20of%20numbers)  
-2. [02_Filtering Even Numbers🟢](https://github.com/Ahad-mirza/Python-List/tree/main/02_Intermediate%20list%20Operations.md/02_Filter%20Even%20numbers.md)  
-3. [03_Tuples with Numbers and Squares🎲](https://github.com/Ahad-mirza/Python-List/tree/main/02_Intermediate%20list%20Operations.md/03_Tuples-square.md)  
-4. [04_Flattening Nested Lists📋](https://github.com/Ahad-mirza/Python-List/tree/main/02_Intermediate%20list%20Operations.md/04_List%20Flatten)  
-5. [05_Finding Vowels in a String🅰️🅾️](https://github.com/Ahad-mirza/Python-List/tree/main/02_Intermediate%20list%20Operations.md/05_Extract%20vowels🅰️🅾️)  
-6. [06_Concetenation➕](https://github.com/Ahad-mirza/Python-List/tree/main/02_Intermediate%20list%20Operations.md/06_Concetenation)  
-7. [07_Converting to Upper Case🔠](https://github.com/Ahad-mirza/Python-List/tree/main/02_Intermediate%20list%20Operations.md/07_List%20uppercase.md)  
-8. [08_Removing Specific Elements❌](https://github.com/Ahad-mirza/Python-List/tree/main/02_Intermediate%20list%20Operations.md/08_Remove.md)  
+1. [01_Squares of Numbers🔢](https://github.com/Ahad-mirza/Python-List/tree/main/02_Intermediate%20list%20Operations/01_Square%20of%20numbers)  
+2. [02_Filtering Even Numbers🟢](https://github.com/Ahad-mirza/Python-List/tree/main/02_Intermediate%20list%20Operations/02_Filter%20Even%20numbers)  
+3. [03_Tuples with Numbers and Squares🎲](https://github.com/Ahad-mirza/Python-List/tree/main/02_Intermediate%20list%20Operations/03_Tuples-square)  
+4. [04_Flattening Nested Lists📋](https://github.com/Ahad-mirza/Python-List/tree/main/02_Intermediate%20list%20Operations/04_List%20Flatten)  
+5. [05_Finding Vowels in a String🅰️🅾️](https://github.com/Ahad-mirza/Python-List/tree/main/02_Intermediate%20list%20Operations/05_Extract%20vowels🅰️🅾️)  
+6. [06_Concetenation➕](https://github.com/Ahad-mirza/Python-List/tree/main/02_Intermediate%20list%20Operations/06_Concetenation)  
+7. [07_Converting to Upper Case🔠](https://github.com/Ahad-mirza/Python-List/tree/main/02_Intermediate%20list%20Operations/07_List%20uppercase)  
+8. [08_Removing Specific Elements❌](https://github.com/Ahad-mirza/Python-List/tree/main/02_Intermediate%20list%20Operations/08_Remove)  
 9. [09_Checking for an Empty List🔍](https://github.com/Ahad-mirza/Python-List/tree/main/02_Intermediate%20list%20Operations.md/09_Empty%20list)  
 10. [10_Replacing Vowels in Text⭐](https://github.com/Ahad-mirza/Python-List/tree/main/02_Intermediate%20list%20Operations.md/10_Replace)  
 
