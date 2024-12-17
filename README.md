@@ -2,8 +2,8 @@
 
 ---
 ## Repository Structure 📂
-- 01_[Basic List Operations](https://github.com/Ahad-mirza/Python-List/tree/main/01_Basic%20List%20Operations.md)
--  02_[Intermediate List Operations](https://github.com/Ahad-mirza/Python-List/tree/main/02_Intermediate%20list%20Operations.md)
+- 01_[Basic List Operations](https://github.com/Ahad-mirza/python-list/tree/main/01_Basic%20List%20Operations)
+-  02_[Intermediate List Operations](https://github.com/Ahad-mirza/Python-List/tree/main/02_Intermediate%20list%20Operations)
 - 03_[Advanced Lists Operations](https://github.com/Ahad-mirza/Python-List/tree/main/03_Advanced%20list%20Operations)
 - 
   ---
